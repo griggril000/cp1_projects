@@ -1,4 +1,3 @@
-## Support & Documentation
+## Computer Programming 1 Projects
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+https://griggril000.github.io/cp1_projects/
